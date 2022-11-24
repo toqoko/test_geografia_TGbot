@@ -1,0 +1,698 @@
+[
+    {
+        "title": "Алжирская Народная Демократическая Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/160px-Flag_of_Algeria.svg.png"
+    },
+    {
+        "title": "Республика Ангола",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/160px-Flag_of_Angola.svg.png"
+    },
+    {
+        "title": "Республика Бенин",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/160px-Flag_of_Benin.svg.png"
+    },
+    {
+        "title": "Республика Ботсвана",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/160px-Flag_of_Botswana.svg.png"
+    },
+    {
+        "title": "Буркина-Фасо",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/160px-Flag_of_Burkina_Faso.svg.png"
+    },
+    {
+        "title": "Республика Бурунди",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/160px-Flag_of_Burundi.svg.png"
+    },
+    {
+        "title": "Габонская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Flag_of_Gabon.svg/160px-Flag_of_Gabon.svg.png"
+    },
+    {
+        "title": "Республика Гамбия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/160px-Flag_of_The_Gambia.svg.png"
+    },
+    {
+        "title": "Республика Гана",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/160px-Flag_of_Ghana.svg.png"
+    },
+    {
+        "title": "Гвинейская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Flag_of_Guinea.svg/160px-Flag_of_Guinea.svg.png"
+    },
+    {
+        "title": "Республика Гвинея-Бисау",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/160px-Flag_of_Guinea-Bissau.svg.png"
+    },
+    {
+        "title": "Республика Джибути",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/160px-Flag_of_Djibouti.svg.png"
+    },
+    {
+        "title": "Арабская Республика Египет",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/160px-Flag_of_Egypt.svg.png"
+    },
+    {
+        "title": "Республика Замбия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/160px-Flag_of_Zambia.svg.png"
+    },
+    {
+        "title": "Республика Зимбабве",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/160px-Flag_of_Zimbabwe.svg.png"
+    },
+    {
+        "title": "Республика Кабо-Верде",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/160px-Flag_of_Cape_Verde.svg.png"
+    },
+    {
+        "title": "Республика Камерун",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/160px-Flag_of_Cameroon.svg.png"
+    },
+    {
+        "title": "Канарские острова",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Flag_of_the_Canary_Islands.svg/160px-Flag_of_the_Canary_Islands.svg.png"
+    },
+    {
+        "title": "Республика Кения",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/160px-Flag_of_Kenya.svg.png"
+    },
+    {
+        "title": "Союз Коморских Островов",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Flag_of_the_Comoros.svg/160px-Flag_of_the_Comoros.svg.png"
+    },
+    {
+        "title": "Демократическая Республика Конго",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg/160px-Flag_of_the_Democratic_Republic_of_the_Congo.svg.png"
+    },
+    {
+        "title": "Республика Конго",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_the_Republic_of_the_Congo.svg/160px-Flag_of_the_Republic_of_the_Congo.svg.png"
+    },
+    {
+        "title": "Республика Кот-д,Ивуар",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/160px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png"
+    },
+    {
+        "title": "Королевство Лесото",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/160px-Flag_of_Lesotho.svg.png"
+    },
+    {
+        "title": "Республика Либерия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/160px-Flag_of_Liberia.svg.png"
+    },
+    {
+        "title": "Государство Ливия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Libya.svg/160px-Flag_of_Libya.svg.png"
+    },
+    {
+        "title": "Республика Маврикий",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Mauritius.svg/160px-Flag_of_Mauritius.svg.png"
+    },
+    {
+        "title": "Исламская Республика Мавритания",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Flag_of_Mauritania.svg/160px-Flag_of_Mauritania.svg.png"
+    },
+    {
+        "title": "Республика Мадагаскар",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/160px-Flag_of_Madagascar.svg.png"
+    },
+    {
+        "title": "Мадейра",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_Madeira.svg/160px-Flag_of_Madeira.svg.png"
+    },
+    {
+        "title": "Майотта\n",
+        "flag": "none"
+    },
+    {
+        "title": "Республика Малави",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Flag_of_Malawi.svg/160px-Flag_of_Malawi.svg.png"
+    },
+    {
+        "title": "Республика Мали",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/160px-Flag_of_Mali.svg.png"
+    },
+    {
+        "title": "Королевство Марокко",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/160px-Flag_of_Morocco.svg.png"
+    },
+    {
+        "title": "Мелилья",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Melilla.svg/160px-Flag_of_Melilla.svg.png"
+    },
+    {
+        "title": "Республика Мозамбик",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/160px-Flag_of_Mozambique.svg.png"
+    },
+    {
+        "title": "Республика Намибия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/160px-Flag_of_Namibia.svg.png"
+    },
+    {
+        "title": "Республика Нигер",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Flag_of_Niger.svg/160px-Flag_of_Niger.svg.png"
+    },
+    {
+        "title": "Федеративная Республика Нигерия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/160px-Flag_of_Nigeria.svg.png"
+    },
+    {
+        "title": "Реюньон\n",
+        "flag": "none"
+    },
+    {
+        "title": "Республика Руанда",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/160px-Flag_of_Rwanda.svg.png"
+    },
+    {
+        "title": "Демократическая Республика Сан-Томе и Принсипи",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Sao_Tome_and_Principe.svg/160px-Flag_of_Sao_Tome_and_Principe.svg.png"
+    },
+    {
+        "title": "Сахарская Арабская Демократическая Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg/160px-Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg.png"
+    },
+    {
+        "title": "Королевство Эсватини",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Flag_of_Eswatini.svg/160px-Flag_of_Eswatini.svg.png"
+    },
+    {
+        "title": "Республика Сенегал",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/160px-Flag_of_Senegal.svg.png"
+    },
+    {
+        "title": "Республика Сейшельские Острова",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Seychelles.svg/160px-Flag_of_Seychelles.svg.png"
+    },
+    {
+        "title": "Сеута",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_Ceuta.svg/160px-Flag_Ceuta.svg.png"
+    },
+    {
+        "title": "Федеративная Республика Сомали",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Flag_of_Somalia.svg/160px-Flag_of_Somalia.svg.png"
+    },
+    {
+        "title": "Республика Сомалиленд",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/160px-Flag_of_Somaliland.svg.png"
+    },
+    {
+        "title": "Хатумо",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Flag_of_Khaatumo_State_of_Somalia.svg/160px-Flag_of_Khaatumo_State_of_Somalia.svg.png"
+    },
+    {
+        "title": "Сомалийское Государство Пунтленд",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_Puntland.svg/160px-Flag_of_Puntland.svg.png"
+    },
+    {
+        "title": "Республика Судан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Sudan.svg/160px-Flag_of_Sudan.svg.png"
+    },
+    {
+        "title": "Республика Сьерра-Леоне",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Sierra_Leone.svg/160px-Flag_of_Sierra_Leone.svg.png"
+    },
+    {
+        "title": "Объединённая Республика Танзания",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/160px-Flag_of_Tanzania.svg.png"
+    },
+    {
+        "title": "Тоголезская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/160px-Flag_of_Togo.svg.png"
+    },
+    {
+        "title": "Тунисская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/160px-Flag_of_Tunisia.svg.png"
+    },
+    {
+        "title": "Республика Уганда",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Flag_of_Uganda.svg/160px-Flag_of_Uganda.svg.png"
+    },
+    {
+        "title": "Центральноафриканская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/160px-Flag_of_the_Central_African_Republic.svg.png"
+    },
+    {
+        "title": "Республика Чад",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/160px-Flag_of_Chad.svg.png"
+    },
+    {
+        "title": "Республика Экваториальная Гвинея",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/160px-Flag_of_Equatorial_Guinea.svg.png"
+    },
+    {
+        "title": "Государство Эритрея",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Flag_of_Eritrea.svg/160px-Flag_of_Eritrea.svg.png"
+    },
+    {
+        "title": "Федеративная Демократическая Республика Эфиопия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/160px-Flag_of_Ethiopia.svg.png"
+    },
+    {
+        "title": "Южно-Африканская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/160px-Flag_of_South_Africa.svg.png"
+    },
+    {
+        "title": "Республика Южный Судан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_South_Sudan.svg/160px-Flag_of_South_Sudan.svg.png"
+    },
+    {
+        "title": "Республика Абхазия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/160px-Flag_of_the_Republic_of_Abkhazia.svg.png"
+    },
+    {
+        "title": "Азербайджанская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Azerbaijan.svg/160px-Flag_of_Azerbaijan.svg.png"
+    },
+    {
+        "title": "Республика Армения",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_Armenia.svg/160px-Flag_of_Armenia.svg.png"
+    },
+    {
+        "title": "Исламский Эмират Афганистан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/160px-Flag_of_the_Taliban.svg.png"
+    },
+    {
+        "title": "Народная Республика Бангладеш",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_of_Bangladesh.svg/160px-Flag_of_Bangladesh.svg.png"
+    },
+    {
+        "title": "Королевство Бахрейн",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Bahrain.svg/160px-Flag_of_Bahrain.svg.png"
+    },
+    {
+        "title": "Британская Территория в Индийском Океане",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg/160px-Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg.png"
+    },
+    {
+        "title": "Государство Бруней-Даруссалам",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Brunei.svg/160px-Flag_of_Brunei.svg.png"
+    },
+    {
+        "title": "Королевство Бутан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/160px-Flag_of_Bhutan.svg.png"
+    },
+    {
+        "title": "Демократическая Республика Восточный Тимор",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Flag_of_East_Timor.svg/160px-Flag_of_East_Timor.svg.png"
+    },
+    {
+        "title": "Социалистическая Республика Вьетнам",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Vietnam.svg/160px-Flag_of_Vietnam.svg.png"
+    },
+    {
+        "title": "Специальный административный район Гонконг",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/160px-Flag_of_Hong_Kong.svg.png"
+    },
+    {
+        "title": "Грузия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/160px-Flag_of_Georgia.svg.png"
+    },
+    {
+        "title": "Государство Израиль",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/160px-Flag_of_Israel.svg.png"
+    },
+    {
+        "title": "Республика Индия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_India.svg/160px-Flag_of_India.svg.png"
+    },
+    {
+        "title": "Республика Индонезия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/160px-Flag_of_Indonesia.svg.png"
+    },
+    {
+        "title": "Иорданское Хашимитское Королевство",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Flag_of_Jordan.svg/160px-Flag_of_Jordan.svg.png"
+    },
+    {
+        "title": "Республика Ирак",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_Iraq.svg/160px-Flag_of_Iraq.svg.png"
+    },
+    {
+        "title": "Исламская Республика Иран",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/160px-Flag_of_Iran.svg.png"
+    },
+    {
+        "title": "Йеменская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Flag_of_Yemen.svg/160px-Flag_of_Yemen.svg.png"
+    },
+    {
+        "title": "Республика Казахстан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/160px-Flag_of_Kazakhstan.svg.png"
+    },
+    {
+        "title": "Королевство Камбоджа",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Cambodia.svg/160px-Flag_of_Cambodia.svg.png"
+    },
+    {
+        "title": "Государство Катар",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/160px-Flag_of_Qatar.svg.png"
+    },
+    {
+        "title": "Республика Кипр",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/160px-Flag_of_Cyprus.svg.png"
+    },
+    {
+        "title": "Киргизская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/160px-Flag_of_Kyrgyzstan.svg.png"
+    },
+    {
+        "title": "Китайская Народная Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/160px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+    },
+    {
+        "title": "Территория Кокосовых островов (Килинг)",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Cocos_%28Keeling%29_Islands.svg/160px-Flag_of_the_Cocos_%28Keeling%29_Islands.svg.png"
+    },
+    {
+        "title": "Корейская Народно-Демократическая Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/160px-Flag_of_North_Korea.svg.png"
+    },
+    {
+        "title": "Республика Корея",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/160px-Flag_of_South_Korea.svg.png"
+    },
+    {
+        "title": "Государство Кувейт",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Flag_of_Kuwait.svg/160px-Flag_of_Kuwait.svg.png"
+    },
+    {
+        "title": "Лаосская Народно-Демократическая Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Laos.svg/160px-Flag_of_Laos.svg.png"
+    },
+    {
+        "title": "Ливанская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/160px-Flag_of_Lebanon.svg.png"
+    },
+    {
+        "title": "Специальный административныйрайон Макао (Аомынь)",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Flag_of_Macau.svg/160px-Flag_of_Macau.svg.png"
+    },
+    {
+        "title": "Государство Малайзия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Flag_of_Malaysia.svg/160px-Flag_of_Malaysia.svg.png"
+    },
+    {
+        "title": "Мальдивская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/160px-Flag_of_Maldives.svg.png"
+    },
+    {
+        "title": "Монголия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Mongolia.svg/160px-Flag_of_Mongolia.svg.png"
+    },
+    {
+        "title": "Республика Союз Мьянма",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Flag_of_Myanmar.svg/160px-Flag_of_Myanmar.svg.png"
+    },
+    {
+        "title": "Федеративная Демократическая Республика Непал",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Flag_of_Nepal.svg/131px-Flag_of_Nepal.svg.png"
+    },
+    {
+        "title": "Объединённые Арабские Эмираты",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/160px-Flag_of_the_United_Arab_Emirates.svg.png"
+    },
+    {
+        "title": "Султанат Оман",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Oman.svg/160px-Flag_of_Oman.svg.png"
+    },
+    {
+        "title": "Исламская Республика Пакистан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/160px-Flag_of_Pakistan.svg.png"
+    },
+    {
+        "title": "Остров Рождества",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Flag_of_Christmas_Island.svg/160px-Flag_of_Christmas_Island.svg.png"
+    },
+    {
+        "title": "Королевство Саудовская Аравия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/160px-Flag_of_Saudi_Arabia.svg.png"
+    },
+    {
+        "title": "Республика Сингапур",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Singapore.svg/160px-Flag_of_Singapore.svg.png"
+    },
+    {
+        "title": "Сирийская Арабская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Flag_of_Syria.svg/160px-Flag_of_Syria.svg.png"
+    },
+    {
+        "title": "Республика Таджикистан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/160px-Flag_of_Tajikistan.svg.png"
+    },
+    {
+        "title": "Королевство Таиланд",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/160px-Flag_of_Thailand.svg.png"
+    },
+    {
+        "title": "Туркмения",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/160px-Flag_of_Turkmenistan.svg.png"
+    },
+    {
+        "title": "Турецкая Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/160px-Flag_of_Turkey.svg.png"
+    },
+    {
+        "title": "Узбекистан / Республика Узбекистан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Uzbekistan.svg/160px-Flag_of_Uzbekistan.svg.png"
+    },
+    {
+        "title": "Республика Филиппины",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Flag_of_the_Philippines.svg/160px-Flag_of_the_Philippines.svg.png"
+    },
+    {
+        "title": "Демократическая Социалистическая Республика Шри-Ланка",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Sri_Lanka.svg/160px-Flag_of_Sri_Lanka.svg.png"
+    },
+    {
+        "title": "Япония",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/160px-Flag_of_Japan.svg.png"
+    },
+    {
+        "title": "Азад-Кашмир",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Azad_Kashmir.svg/160px-Flag_of_Azad_Kashmir.svg.png"
+    },
+    {
+        "title": "Китайская Республика (Тайвань)",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/160px-Flag_of_the_Republic_of_China.svg.png"
+    },
+    {
+        "title": "Нагорно-Карабахская РеспубликаРеспублика Арцах[1]",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Flag_of_Artsakh.svg/160px-Flag_of_Artsakh.svg.png"
+    },
+    {
+        "title": "Турецкая Республика Северного Кипра",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg/160px-Flag_of_the_Turkish_Republic_of_Northern_Cyprus.svg.png"
+    },
+    {
+        "title": "Республика Южная Осетия(Государство Алания)",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_South_Ossetia.svg/160px-Flag_of_South_Ossetia.svg.png"
+    },
+    {
+        "title": "Россия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Russia.svg/160px-Flag_of_Russia.svg.png"
+    },
+    {
+        "title": "Австрийская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/160px-Flag_of_Austria.svg.png"
+    },
+    {
+        "title": "Аландские острова",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Flag_of_%C3%85land.svg/160px-Flag_of_%C3%85land.svg.png"
+    },
+    {
+        "title": "Республика Албания",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/160px-Flag_of_Albania.svg.png"
+    },
+    {
+        "title": "Княжество Андорра",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Andorra.svg/160px-Flag_of_Andorra.svg.png"
+    },
+    {
+        "title": "БелоруссияРеспублика Беларусь",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/160px-Flag_of_Belarus.svg.png"
+    },
+    {
+        "title": "Королевство Бельгия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/160px-Flag_of_Belgium_%28civil%29.svg.png"
+    },
+    {
+        "title": "Республика Болгария",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/160px-Flag_of_Bulgaria.svg.png"
+    },
+    {
+        "title": "Босния и Герцеговина",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/160px-Flag_of_Bosnia_and_Herzegovina.svg.png"
+    },
+    {
+        "title": "Государство-город Ватикан",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_the_Vatican_City.svg/160px-Flag_of_the_Vatican_City.svg.png"
+    },
+    {
+        "title": "Соединённое Королевство Великобритании и Северной Ирландии",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/160px-Flag_of_the_United_Kingdom_%283-5%29.svg.png"
+    },
+    {
+        "title": "Венгрия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/160px-Flag_of_Hungary.svg.png"
+    },
+    {
+        "title": "Федеративная Республика Германия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/160px-Flag_of_Germany.svg.png"
+    },
+    {
+        "title": "Гернси",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/160px-Flag_of_Guernsey.svg.png"
+    },
+    {
+        "title": "Гибралтар",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Flag_of_Gibraltar.svg/160px-Flag_of_Gibraltar.svg.png"
+    },
+    {
+        "title": "Греческая Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/160px-Flag_of_Greece.svg.png"
+    },
+    {
+        "title": "Королевство Дания",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/160px-Flag_of_Denmark.svg.png"
+    },
+    {
+        "title": "Бейливик Джерси",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Flag_of_Jersey.svg/160px-Flag_of_Jersey.svg.png"
+    },
+    {
+        "title": "Республика Ирландия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/160px-Flag_of_Ireland.svg.png"
+    },
+    {
+        "title": "Исландия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/160px-Flag_of_Iceland.svg.png"
+    },
+    {
+        "title": "Королевство Испания",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/160px-Flag_of_Spain.svg.png"
+    },
+    {
+        "title": "Итальянская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/160px-Flag_of_Italy.svg.png"
+    },
+    {
+        "title": "Республика Косово",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/160px-Flag_of_Kosovo.svg.png"
+    },
+    {
+        "title": "Латвийская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Latvia.svg/160px-Flag_of_Latvia.svg.png"
+    },
+    {
+        "title": "Литовская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/160px-Flag_of_Lithuania.svg.png"
+    },
+    {
+        "title": "Княжество Лихтенштейн",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Flag_of_Liechtenstein.svg/160px-Flag_of_Liechtenstein.svg.png"
+    },
+    {
+        "title": "Великое Герцогство Люксембург",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Luxembourg.svg/160px-Flag_of_Luxembourg.svg.png"
+    },
+    {
+        "title": "Республика Северная Македония",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_North_Macedonia.svg/160px-Flag_of_North_Macedonia.svg.png"
+    },
+    {
+        "title": "Республика Мальта",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/160px-Flag_of_Malta.svg.png"
+    },
+    {
+        "title": "МолдавияРеспублика Молдова",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Moldova.svg/160px-Flag_of_Moldova.svg.png"
+    },
+    {
+        "title": "Княжество Монако",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Flag_of_Monaco.svg/160px-Flag_of_Monaco.svg.png"
+    },
+    {
+        "title": "Остров Мэн",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Flag_of_the_Isle_of_Mann.svg/160px-Flag_of_the_Isle_of_Mann.svg.png"
+    },
+    {
+        "title": "Нидерланды",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/160px-Flag_of_the_Netherlands.svg.png"
+    },
+    {
+        "title": "Королевство Норвегия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/160px-Flag_of_Norway.svg.png"
+    },
+    {
+        "title": "Республика Польша",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/160px-Flag_of_Poland.svg.png"
+    },
+    {
+        "title": "Португальская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/160px-Flag_of_Portugal.svg.png"
+    },
+    {
+        "title": "Приднестровская Молдавская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Transnistria_%28state%29.svg/160px-Flag_of_Transnistria_%28state%29.svg.png"
+    },
+    {
+        "title": "Румыния",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/160px-Flag_of_Romania.svg.png"
+    },
+    {
+        "title": "Республика Сан-Марино",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Flag_of_San_Marino.svg/160px-Flag_of_San_Marino.svg.png"
+    },
+    {
+        "title": "Республика Сербия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/160px-Flag_of_Serbia.svg.png"
+    },
+    {
+        "title": "Словакия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/160px-Flag_of_Slovakia.svg.png"
+    },
+    {
+        "title": "Республика Словения",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/160px-Flag_of_Slovenia.svg.png"
+    },
+    {
+        "title": "Украина",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/160px-Flag_of_Ukraine.svg.png"
+    },
+    {
+        "title": "Фарерские острова",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flag_of_the_Faroe_Islands.svg/160px-Flag_of_the_Faroe_Islands.svg.png"
+    },
+    {
+        "title": "Финляндская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/160px-Flag_of_Finland.svg.png"
+    },
+    {
+        "title": "Французская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/160px-Flag_of_France.svg.png"
+    },
+    {
+        "title": "Республика Хорватия",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/160px-Flag_of_Croatia.svg.png"
+    },
+    {
+        "title": "Черногория",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Flag_of_Montenegro.svg/160px-Flag_of_Montenegro.svg.png"
+    },
+    {
+        "title": "Чешская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/160px-Flag_of_the_Czech_Republic.svg.png"
+    },
+    {
+        "title": "Швейцарская Конфедерация",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/160px-Flag_of_Switzerland_%28Pantone%29.svg.png"
+    },
+    {
+        "title": "Королевство Швеция",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/160px-Flag_of_Sweden.svg.png"
+    },
+    {
+        "title": "Эстонская Республика",
+        "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Flag_of_Estonia.svg/160px-Flag_of_Estonia.svg.png"
+    }
+]
